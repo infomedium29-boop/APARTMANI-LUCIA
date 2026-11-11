@@ -1,0 +1,3 @@
+# Demonstration preview — keep unindexed until owner approves publication.
+User-agent: *
+Disallow: /
